@@ -5,7 +5,3 @@
 # @kirishima/template
 
 </div>
-
-# Features
-- lorem
-- ipsum
