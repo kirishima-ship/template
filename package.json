@@ -14,11 +14,11 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "@hazmi35/eslint-config": "^11.0.0",
-    "@types/node": "^18.19.42",
+    "@types/node": "^18.19.56",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.57.0",
-    "rimraf": "^5.0.9",
+    "rimraf": "^5.0.10",
     "typescript": "^5.5.4"
   },
   "eslintConfig": {
